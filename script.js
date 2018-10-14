@@ -1,4 +1,3 @@
-let test = "joske";
 
 const logHello = () => {
   console.log('hello');
