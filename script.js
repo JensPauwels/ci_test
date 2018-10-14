@@ -1,3 +1,4 @@
+const test = "jos";
 
 const logHello = () => {
   console.log('hello');
